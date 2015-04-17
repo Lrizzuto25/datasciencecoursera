@@ -1,4 +1,4 @@
 # datasciencecoursera
 
-## This is the REAME
+## This is the README
 ### Enjoy 
